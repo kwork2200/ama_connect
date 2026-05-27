@@ -1,0 +1,7 @@
+{
+  "dart.flutterSdkPath": "D:\\fltsdk",
+  "terminal.integrated.env.windows": {
+    "FLUTTER_ROOT": "D:\\fltsdk",
+    "PATH": "D:\\fltsdk\\bin;${env:PATH}"
+  }
+}
